@@ -1,2 +1,2 @@
-This repo contains all the solutions (week-wise) for the course Algorithmic Toolbox by Coursera specifically in C++!!
+<h1>This repo contains all the solutions (week-wise) for the course Algorithmic Toolbox by Coursera specifically in C++!!</h1>
 
