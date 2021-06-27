@@ -1,7 +1,6 @@
 /*
 author:-Anurag Mishra(2:22AM)
 problem:-(Algo_tb_week(2)problem 1)
-tag:-DP
 */
 #include <bits/stdc++.h>
 using namespace std;
